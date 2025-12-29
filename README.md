@@ -14,5 +14,6 @@ In collaboration with Atliq Technologies, we tackled comprehensive data transfor
 
 Through these projects, I’ve honed my skills in transforming raw data into actionable business insights, particularly in sales and finance domains. I’m excited to leverage these capabilities in future opportunities and contribute to data-driven decision-making.
 
+https://github.com/mohdkhalid575/Sales-Finance-Report-Using-Excel/blob/main/Sales_Report.xlsx
 ### Data Source:
 Sales-Finance Data: The primary dataset used for this analysis is the "fact_sales_monthly_with_cost.Xlsx" file, containing detailed information about each sale made by the company.
